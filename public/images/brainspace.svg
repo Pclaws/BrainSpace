@@ -1,0 +1,12 @@
+<svg width="420" height="120" viewBox="0 0 420 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Speech bubble outline -->
+    <ellipse cx="70" cy="60" rx="50" ry="45" stroke="#313131" stroke-width="4" fill="#fff"/>
+    <!-- Speech bubble tail -->
+    <polygon points="67,105 60,120 80,110" fill="#313131"/>
+    <!-- Brain curves inside the bubble -->
+    <path d="M55 65 Q47 50, 70 48 Q93 50, 86 67 Q82 77, 70 73 Q60 77, 64 68" stroke="#313131" stroke-width="2.5" fill="none"/>
+    <path d="M61 60 Q64 53, 74 57 Q78 62, 72 65" stroke="#313131" stroke-width="2" fill="none"/>
+    <!-- Logo text -->
+    <text x="140" y="80" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-weight="bold" font-size="44" fill="#313131">brain</text>
+    <text x="140" y="112" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="28" fill="#313131" letter-spacing="3">space</text>
+</svg>
